@@ -1,0 +1,33 @@
+
+  ul {
+    width: 300px;
+    list-style: none;
+  }
+
+  li {
+    float: left;
+    background-color: pink;
+    border: 5px solid #B0C4DE;
+    width: 30%;
+    height: 80px;
+  }
+
+  li:hover {
+    background-color: yellow;
+  }
+
+  h1 {
+    font-size: 250%;
+  }
+
+  .white {
+    background-color: white;
+    font-size: 60px;
+    text-align: center;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    padding: 50px;
+  }
